@@ -1,2 +1,2 @@
 # git
-### check1.
+### check1. reset
