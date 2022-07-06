@@ -1,2 +1,3 @@
 # git-practice-2
-### clone - push - test
+## clone
+### add - commit - push 
